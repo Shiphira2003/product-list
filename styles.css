@@ -206,7 +206,7 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100%;
+    height: 60%;
 }
 .cart h2 {
     text-align: center;
